@@ -1,0 +1,6 @@
+framework module LRACODE {
+  umbrella header "LRACODE-umbrella.h"
+
+  export *
+  module * { export * }
+}

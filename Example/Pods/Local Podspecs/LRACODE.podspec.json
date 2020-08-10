@@ -1,0 +1,22 @@
+{
+  "name": "LRACODE",
+  "version": "0.1.0",
+  "summary": "A short description of LRACODE.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liuruian@hinterstellar.com/LRACODE",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liuruian@hinterstellar.com": "liuruian@hinterstellar.com"
+  },
+  "source": {
+    "git": "https://github.com/liuruian@hinterstellar.com/LRACODE.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LRACODE/Classes/**/*"
+}
