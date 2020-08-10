@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LRACODE_Example' do
+  pod 'LRACODE', :path => '../'
+
+  target 'LRACODE_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
